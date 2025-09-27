@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="daydream 2025"
-run/main_scene="uid://cn7d1wiijwcqn"
-config/features=PackedStringArray("4.5", "Forward Plus")
+run/main_scene="uid://bnob02rrk00e"
+config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
