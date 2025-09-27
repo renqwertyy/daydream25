@@ -1,0 +1,24 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1758996110
+area_2d.gd::GDScript::8580224342857781695::1758993581::0::1::::<>Area2D<><>0<>0<><>::
+back1 (1).png::CompressedTexture2D::260420801221196720::1758993581::1758996112::1::::<><><>0<>0<>5f0575933283caecb67b9dde255a8121<>res://.godot/imported/back1 (1).png-3d85f2107547f3aa201a4c7ae37a7d61.ctex::
+back1.png::CompressedTexture2D::3921781793526740999::1758993581::1758996112::1::::<><><>0<>0<>80ea6a6e23660d621a643eb601a98bca<>res://.godot/imported/back1.png-faf7a4fc004ebd88d66885bb9d90fb13.ctex::
+back21.png::CompressedTexture2D::5804007407625354615::1758993581::1758996112::1::::<><><>0<>0<>126178a5c1e73018e4e22c6d76d616d0<>res://.godot/imported/back21.png-e6eb76e54ca32a5c597a02a646627ad1.ctex::
+color_rect.gd::GDScript::8815474571351595098::1758996109::0::1::::<>ColorRect<><>0<>0<><>::
+control.gd::GDScript::1463736780455537062::1758993581::0::1::::<>Control<><>0<>0<><>::
+control_2.gd::GDScript::4880370647450418701::1758993581::0::1::::<>Control<><>0<>0<><>::
+FgfkaZ3XwAMemG3.png::CompressedTexture2D::4230023117559241257::1758993581::1758996112::1::::<><><>0<>0<>11886aab06ea0c2bbd2045e076f1c2d7<>res://.godot/imported/FgfkaZ3XwAMemG3.png-eae0f025125829743fc8b78f26ca39d3.ctex::
+health.gd::GDScript::-1::1758996109::0::1::::<>ProgressBar<><>0<>0<><>::
+icon.svg::CompressedTexture2D::6085876367538184661::1758993581::1758996112::1::::<><><>0<>0<>d879bba02ca40bc9d8e99487d8f943e1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+MainScene.gdshader::Shader::5846515105227057821::1758993581::0::1::::<><><>0<>0<><>::
+MainScene.tscn::PackedScene::97878933722460410::1758996109::0::1::::<><><>0<>0<><>::uid://b1jb4lk27itnd::::res://FgfkaZ3XwAMemG3.png<>uid://c40wo0l343uqh::::res://MainScene.gd<>uid://b065qg3ahx6gn::::res://paper-holder.png<>uid://cpkdiqse30i1b::::res://MainScene.gdshader<>uid://bv40f5f42h1kd::::res://back1.png<>uid://dxujtwo436251::::res://color_rect.gd<>uid://duilbn13wynkx::::res://area_2d.gd<>uid://coxrfib5qslb0::::res://back21.png<>uid://u4bsb0i22nbi::::res://control.gd
+main_scene.gd::GDScript::-1::1758996109::0::1::::<>Node2D<><>0<>0<><>::
+moonshine.webp::CompressedTexture2D::2691630144429041492::1758996110::1758996112::1::::<><><>0<>0<>3d21b7da14f8986c8d8447161436aaf4<>res://.godot/imported/moonshine.webp-e0a7f99531716b00868dbd8339bf1506.ctex::
+node_2d.tscn::PackedScene::860591247055388848::1758993581::0::1::::<><><>0<>0<><>::
+orange.png::CompressedTexture2D::4987710732937055191::1758993581::1758996112::1::::<><><>0<>0<>ac144a2750c62f74128a477c48a337e2<>res://.godot/imported/orange.png-da4f4a6dd8e149060a376402fc6e1df5.ctex::
+paper-holder.png::CompressedTexture2D::4206987925910154877::1758993581::1758996112::1::::<><><>0<>0<>deeb123b93cfdf401d65a8ac6e04e17c<>res://.godot/imported/paper-holder.png-d3bc6357277163c0e7d1dc7f432115e6.ctex::
+paper-page.png::CompressedTexture2D::3561260216221684802::1758993581::1758996112::1::::<><><>0<>0<>47bcc67734573a2c216826b6f3aef5aa<>res://.godot/imported/paper-page.png-86b02963a7b7db7054e4be8085623647.ctex::
+pill-bottle.png::CompressedTexture2D::7139605723448115998::1758993581::1758996112::1::::<><><>0<>0<>43644b68f50940892a71e4effda97b96<>res://.godot/imported/pill-bottle.png-1672f9673a528158145c461af6408a85.ctex::
+player_tracker.gd::GDScript::433960446701489119::1758993581::0::1::::<>Node<><>0<>0<><>::
+skd.gd::GDScript::5748794646124986109::1758993581::0::1::::<>Node2D<><>0<>0<><>::
+sprite_2d_2.gd::GDScript::3190503251601662531::1758993581::0::1::::<>Sprite2D<><>0<>0<><>::
